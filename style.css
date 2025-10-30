@@ -1,0 +1,13 @@
+/* Color Theme Swatches in Hex */
+/*.principal { color: #F2F2F2; }
+.Nexa-Pro-2-hex { color: #D9D9D9; }
+.Nexa-Pro-3-hex { color: #8C8C8C; }
+.destaque { color: #595959; }
+.background { color: #0D0D0D; }
+*/
+html {
+	background:#0D0D0D; 
+	color: #F2F2F2;
+}
+
+
